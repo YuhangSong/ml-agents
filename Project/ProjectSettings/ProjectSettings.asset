@@ -682,11 +682,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 3
   activeInputHandler: 2
-  cloudProjectId: 
+  cloudProjectId: 4ddf542a-abac-445f-b1ed-41add9969b83
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: Project
+  organizationId: dryuhangsong
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
   playerDataPath: 
